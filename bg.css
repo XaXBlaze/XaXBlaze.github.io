@@ -1,0 +1,13 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-image: url("C:\Users\marti\OneDrive\Desktop\Batman Code\XaXBlaze.github.io-1\assets\Vector_2646.jpg");
+    height: 620px;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
